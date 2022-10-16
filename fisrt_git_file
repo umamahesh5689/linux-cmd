@@ -1,3 +1,5 @@
-LS
-cd Documents
+ls
 ifconfig
+
+sudo apt-get update
+umr689
